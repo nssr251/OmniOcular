@@ -1,1 +1,19 @@
+{
+  "note": "Starter sources only. On the first run these are copied into the sources table, where you can pause, remove or add to them in the app. Each location's own sources are found automatically.",
+  "starter": [
+    { "kind": "rss", "name": "The Hindu",        "category": "news",  "url": "https://www.thehindu.com/news/national/feeder/default.rss" },
+    { "kind": "rss", "name": "NDTV",             "category": "news",  "url": "https://feeds.feedburner.com/ndtvnews-latest" },
+    { "kind": "rss", "name": "Times of India",   "category": "news",  "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms" },
+    { "kind": "rss", "name": "BBC World",        "category": "news",  "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "kind": "rss", "name": "Al Jazeera",       "category": "news",  "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "kind": "rss", "name": "CISA Advisories",  "category": "cyber", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml" },
+    { "kind": "rss", "name": "BleepingComputer", "category": "cyber", "url": "https://www.bleepingcomputer.com/feed/" },
+    { "kind": "rss", "name": "The Hacker News",  "category": "cyber", "url": "https://feeds.feedburner.com/TheHackersNews" },
+    { "kind": "youtube", "name": "Al Jazeera English", "category": "news", "handle": "UCNye-wNBqNL5ZzHSJj3l8Bg", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg" },
+    { "kind": "youtube", "name": "DW News",            "category": "news", "handle": "UCknLrEdhRCp1aegoMqRaCZg", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg" },
+    { "kind": "youtube", "name": "BBC News",           "category": "news", "handle": "UC16niRr50-MSBwiO3YDb3RA", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA" },
+    { "kind": "youtube", "name": "NDTV",               "category": "news", "handle": "UCZFMm1mMw0F81Z37aaEzTUA", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFMm1mMw0F81Z37aaEzTUA" }
+  ],
+  "kev": true
+}
 
