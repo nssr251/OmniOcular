@@ -1,1 +1,9 @@
-
+{
+  "name": "OmniOcular",
+  "short_name": "OmniOcular",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E9EDF0",
+  "theme_color": "#16222C",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
