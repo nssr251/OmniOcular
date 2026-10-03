@@ -1,0 +1,13 @@
+name: keepalive
+# GitHub disables scheduled workflows after 60 days without repo activity. This prevents that.
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+permissions:
+  actions: write
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
